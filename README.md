@@ -2,6 +2,8 @@
 
 A buildless, dependency-free static site for GitHub Pages. Open index.html directly or serve this directory with any static HTTP server. All paths are relative, so project Pages sites work under /repository-name/. No external fonts, APIs, images, or CDN scripts are required.
 
+See: https://robert-abela.github.io/petshops/
+
 ## Publish on GitHub Pages
 
 1. Create a GitHub repository and upload the **contents** of this folder to its root (index.html must be at the root). Include .nojekyll.
